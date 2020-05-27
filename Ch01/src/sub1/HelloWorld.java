@@ -9,9 +9,8 @@ public class HelloWorld {
 		
 		System.out.println("Hello World!");
 		System.out.println("Hello Java!");
+		System.out.println("Hello Java!");
 		
-		float a = 3.123456789f;
-		System.out.println(a);
 	}
 
 }

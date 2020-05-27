@@ -1,8 +1,8 @@
 package sub1;
 /*
- * ³¯Â¥ : 2020/04/29
- * ÀÌ¸§ : ±è³ª¿¬
- * ³»¿ë : ÀÚ¹Ù HelloWorld Ãâ·ÂÇÏ±â
+ * ë‚ ì§œ : 2020/04/29
+ * ì´ë¦„ : ê¹€ë‚˜ì—°
+ * ë‚´ìš© : ìë°” HelloWorld ì¶œë ¥í•˜ê¸°
  */
 public class HelloWorld {
 	public static void main(String[] args) {
@@ -10,8 +10,6 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Hello Java!");
 		
-		float a = 3.123456789f;
-		System.out.println(a);
 	}
 
 }
